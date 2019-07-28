@@ -1,2 +1,2 @@
 # Scratch3.0
-Scratch example
+This is a tutorial, and contains some very simple exmple. 
